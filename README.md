@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Cajuzinho20/Cajuzinho20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div >
+  <a href="https://github.com/Cazjuinho20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cajuzinho20&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cajuzinho20&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+  
+- 🌱 I’m currently learning:
+  <div style="display: inline_block"><br>
+  <img align="center" alt="caiojava" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="caiopy" height="30" width="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="caioc" height="30" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 01100011 01110101 01110010 01101001 01101111 01110101 01110011 
+![Snake animation](https://github.com/Cajuzinho20/Cajuzinho20/blob/output/github-contribution-grid-snake.svg)
